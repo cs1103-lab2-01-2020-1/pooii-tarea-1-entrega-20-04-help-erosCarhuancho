@@ -7,5 +7,6 @@
 
 #include <iostream>
 using namespace std;
+#include <vector>
 
 #endif //LIB_H
