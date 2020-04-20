@@ -2,7 +2,7 @@
 // Author: marvin on 4/19/20.
 //
 #include "lib.h"
-
+#include "stack.h"
 int main() {
 
     Stack<int> intstack;
